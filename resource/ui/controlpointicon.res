@@ -7,12 +7,12 @@
 		"xpos"		"0"
 		"ypos"		"0"
 		"zpos"		"2"
-		"wide"		"27"
-		"tall"		"27"
+		"wide"		"30"
+		"tall"		"30"
 		"visible"	"1"
 		"enabled"	"1"
 	}
-
+	
 	"Countdown"
 	{
 		"ControlName"	"CControlPointCountdown"
@@ -20,15 +20,15 @@
 		"xpos"		"0"
 		"ypos"		"0"
 		"zpos"		"4"
-		"wide"		"27"
-		"tall"		"27"
+		"wide"		"30"
+		"tall"		"30"
 		"visible"	"1"
 		"enabled"	"1"
-	}
+	}	
 
 	"CapPlayerImage"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"ImagePanel"		
 		"fieldName"	"CapPlayerImage"
 		"xpos"		"0"
 		"ypos"		"0"
@@ -42,14 +42,14 @@
 	}
 
 	"CapNumPlayers"
-	{
+	{	
 		"ControlName"		"Label"
 		"fieldName"		"CapNumPlayers"
 		"font"			"aRegular12"
-		"xpos"			"12"
-		"ypos"			"2"
+		"xpos"			"14"
+		"ypos"			"4"
 		"zpos"			"4"
-		"wide"			"12"
+		"wide"			"16"
 		"tall"			"24"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -63,19 +63,19 @@
 
 	"OverlayImage"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"ImagePanel"		
 		"fieldName"	"OverlayImage"
-		"xpos"		"17"
+		"xpos"		"18"
 		"ypos"		"0"
 		"zpos"		"4"
-		"wide"		"10"
-		"tall"		"10"
+		"wide"		"12"
+		"tall"		"12"
 		"visible"	"0"
 		"enabled"	"1"
 		"image"		"capture_icon"
 		"scaleImage"	"1"
 	}
-
+	
 	"CPTimerLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -94,7 +94,7 @@
 		"wrap"			"0"
 		"font"			"ControlPointTimer"
 	}
-
+				
 	"CPTimerBG"
 	{
 		"ControlName"	"Panel"
@@ -106,7 +106,7 @@
 		"tall"		"30"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"../sprites/obj_icons/icon_obj_timer"
-		"scaleImage"	"1"
+		"image"			"../sprites/obj_icons/icon_obj_timer"	
+		"scaleImage"	"1"	
 	}
 }
