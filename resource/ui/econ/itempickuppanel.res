@@ -19,30 +19,31 @@
 		"bgcolor_override"	"ahudDarkGrey"
 		"infocus_bgcolor_override" "ahudDarkGrey"
 		"outoffocus_bgcolor_override" "ahudDarkGrey"
-
+		
 		"modelpanels_spacing"		"40"
 		"modelpanels_width"			"500"
 		"modelpanels_height"		"260"
 		"modelpanels_ypos"			"110"
-
-		"modelpanelskv"
+		
+		
+		"modelpanelskv"	
 		{
 			"PaintBackgroundType"	"0"
 			"paintborder"			"1"
 			"bgcolor_override"		"ahudGrey"
-
+			
 			"model_xpos"	"0"
 			"model_center_y"	"1"
 			"model_tall"	"160"
 			"model_wide"	"240"
-
+			
 			"text_forcesize"	"1"
 			"text_xpos"		"250"
 			"text_wide"		"225"
 			"text_center"	"1"
 			"is_mouseover"	"1"
 			"hide_collection_panel"	"1"
-
+			
 			"itemmodelpanel"
 			{
 				"use_item_rendertarget" "0"
@@ -50,7 +51,7 @@
 			}
 		}
 	}
-
+	
 	"classimageoutline"
 	{
 		"ControlName"	"EditablePanel"
@@ -63,7 +64,7 @@
 		"visible"		"1"
 		"bgcolor_override" "0 0 0 255"
 	}
-
+	
 	"classimage"
 	{
 		"ControlName"	"ImagePanel"
@@ -78,7 +79,7 @@
 		"image"			"achievements/tf_medic_heal_grind"
 		"scaleImage"	"1"
 	}
-
+	
 	"ItemsFoundLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -96,7 +97,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-
+	
 	"SelectedItemFoundMethodLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -114,7 +115,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-
+	
 	"ItemCountLabel"
 	{
 		"ControlName"		"CExLabel"
@@ -149,7 +150,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 	}
-
+	
 	"NextButton"
 	{
 		"ControlName"		"CExButton"
@@ -196,7 +197,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-
+	
 	"CloseButton"
 	{
 		"ControlName"	"CExButton"
@@ -244,7 +245,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-
+	
 	"DiscardButton"
 	{
 		"ControlName"	"CExImageButton"
@@ -271,10 +272,10 @@
 		"defaultBgColor_override" "117 107 94 255"
 		"armedBgColor_override" "145 73 59 255"
 		"depressedBgColor_override" "117 107 94 255"
-
-		"image_drawcolor"	"ahudWhite"
-		"image_armedcolor"	"ahudWhite"
-
+			
+		"image_drawcolor"	"ahudWhite"		
+		"image_armedcolor"	"ahudWhite"		
+		
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -290,8 +291,8 @@
 			"scaleImage"	"1"
 			"paintbackgroundtype" "0"
 			"proportionaltoparent"	"1"
-		}
-	}
+		}				
+	}		
 	"DiscardButtonTooltip"
 	{
 		"ControlName"	"EditablePanel"
@@ -306,7 +307,7 @@
 		"paintbackground"	"1"
 		"border"		""
 		"bgcolor_override"	"ahudDarkerGrey"
-
+		
 		"TipLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -346,7 +347,7 @@
 		"fgcolor_override" "200 80 60 255"
 		"bgcolor_override"	"46 43 42 255"
 	}
-
+	
 	"ScoreEntry"
 	{
 		"ControlName"		"TextEntry"

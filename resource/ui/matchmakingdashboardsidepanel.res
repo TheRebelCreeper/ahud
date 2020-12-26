@@ -35,7 +35,7 @@
 
 		"image"		"gradient_pure_black"
 	}
-
+	
 	"InnerGradient"
 	{
 		"ControlName"		"ImagePanel"
@@ -83,6 +83,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 
+
 		"proportionaltoparent"	"1"
 		"scaleimage"	"1"
 		"mouseinputenabled"	"0"
@@ -96,12 +97,12 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"CloseButton"
 		"xpos"			"rs1"
-		"labelText"		"▶"
+		"labelText"		">"
 
 		if_left
 		{
 			"xpos"		"0"
-			"labelText"		"◀"
+			"labelText"		"<"
 		}
 
 		"ypos"			"0"
@@ -127,12 +128,12 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"ReturnButton"
 		"xpos"			"3"
-		"labelText"		"◀"
+		"labelText"		"<"
 
 		if_left
 		{
 			"xpos"	"rs1-3"
-			"labelText"		"▶"
+			"labelText"		">"
 		}
 
 		"ypos"			"0"
@@ -142,7 +143,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"command"		"nav_to"
-		"labelText"		"◀"
+		"labelText"		"<"
 
 		"textAlignment"	"west"
 		"font"			"aRegular16"
@@ -153,7 +154,7 @@
 		"defaultFgColor_override"	"ahudWhite"
 		"armedFgColor_override"	"ahudYellow"
 	}
-
+	
 	"BGPanel"
 	{
 		"ControlName"	"EditablePanel"

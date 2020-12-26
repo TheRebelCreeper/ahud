@@ -146,6 +146,7 @@
 		"team_colors"		"1"
 	}
 
+
 	"MainStatsContainer"
 	{
 		"Controlname"	"EditablePanel"
@@ -404,7 +405,7 @@
 					"visible"		"0"
 					"enabled"		"1"
 					"image"			""
-					"scaleImage"	"1"
+					"scaleImage"	"1"	
 					"color_outline"	"52 48 45 255"
 
 					if_large
@@ -535,7 +536,7 @@
 					{
 						"ypos"			"39"
 					}
-				}
+				}						
 				"RedTeamScore"
 				{
 					"ControlName"		"CExLabel"
@@ -674,7 +675,7 @@
 					"visible"		"0"
 					"enabled"		"1"
 					"image"			""
-					"scaleImage"	"1"
+					"scaleImage"	"1"	
 					"color_outline"	"52 48 45 255"
 
 					if_large
@@ -717,7 +718,7 @@
 						"ypos"			"77"
 						"tall"			"340"
 					}
-
+			
 					"RedPlayerList"
 					{
 						"ControlName"	"TFSectionedListPanel"

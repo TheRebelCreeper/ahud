@@ -1,15 +1,24 @@
-#base "../base_inactive.res"
+#base "../tele_entrance_inactive.res"
 
 "Resource/UI/build_menu/tele_entrance_inactive.res"
 {
 	"ItemNameLabel"
 	{
-		"labelText"			"#TF_Object_Tele_Entrance_360"
-		"fgcolor_override"	"ahudPipBoy"
+		"fgcolor"		"0 255 0 255"
 	}
+	
+	"NotBuiltLabel"
+	{
+		"fgcolor"		"0 255 0 255"
+	}	
 
+	"UnavailableLabel"
+	{
+		"fgcolor"		"0 255 0 255"
+	}
+	
 	"NumberLabel"
 	{
-		"fgcolor_override"	"ahudPipBoy"
+		"fgcolor"		"0 255 0 255"
 	}
 }

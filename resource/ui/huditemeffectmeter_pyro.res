@@ -4,6 +4,7 @@
 {
 	"HudItemEffectMeter"
 	{
+		"fieldName"		"HudItemEffectMeter"
 		"ypos"		"c113"
 	}
 }

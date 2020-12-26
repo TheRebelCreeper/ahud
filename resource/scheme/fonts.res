@@ -982,7 +982,7 @@ Scheme
 				"antialias" "1"
 				"blur"		"1"
 			}
-		}
+		}		
 		"aTargetIDData"
 		{
 			"1"
@@ -1022,6 +1022,7 @@ Scheme
 				"weight"	"800"
 			}
 
+			
 		}
 		"DefaultUnderline"
 		{
@@ -1094,6 +1095,7 @@ Scheme
 				"weight"		"0"
 			}
 		}
+
 
 		"DefaultVerySmall"
 		{
@@ -1363,7 +1365,7 @@ Scheme
 				"additive"	"0"
 				"antialias" "1"
 			}
-		}
+		}	
 		"HudFontMediumBigBold"
 		{
 			"1"
@@ -1374,7 +1376,7 @@ Scheme
 				"additive"	"0"
 				"antialias" "1"
 			}
-		}
+		}		
 		"HudFontMedium"
 		{
 			"1"
@@ -1457,7 +1459,7 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}
+		}	
 		"HudFontSmallishBold"
 		{
 			"1"
@@ -1812,7 +1814,7 @@ Scheme
 				"outline"	"1"
 				"range"		"0x0000 0x017F" // Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
-		}
+		}		
 		TFTypeDeath
 		{
 			"1"
@@ -1824,7 +1826,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-
+		
 		Icons
 		{
 			"1"
@@ -1930,7 +1932,7 @@ Scheme
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
-
+		
 		// this is the symbol font
 		"Marlett"
 		{
@@ -1985,7 +1987,7 @@ Scheme
 				"weight"	"500"
 			}
 		}
-
+		
 		"GoalText"
 		{
 			"1"
@@ -1998,8 +2000,8 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}
-
+		}		
+		
 		"ChalkboardTitle"
 		{
 			"1"
@@ -2008,7 +2010,7 @@ Scheme
 				"tall"			"28"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
-				"antialias"		"1"
+				"antialias"		"1" 
 				"custom"		"1" [$OSX]
 				"weight"		"500"
 				"weight_lodef"	"800"
@@ -2233,7 +2235,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
+		
 		"MatchSummaryTeamScores"
 		{
 			"1"
@@ -2315,7 +2317,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
+		
 		"TargetID"
 		{
 			"1"
@@ -2457,8 +2459,8 @@ Scheme
 				"weight"		"300"
 				"antialias"		"1"
 			}
-		}
-
+		}	
+		
 		MenuSmallFont
 		{
 			"1"
@@ -2471,7 +2473,7 @@ Scheme
 				"weight_lodef"	"600"
 				"antialias"		"1"
 			}
-		}
+		}			
 		CapPlayerFont
 		{
 			"1"
@@ -2509,7 +2511,7 @@ Scheme
 				"additive"	"1"
 				"antialias" 	"1"
 			}
-		}
+		}		
 		TFFontMedium
 		{
 			"1"
@@ -2522,8 +2524,8 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}
-
+		}		
+		
 		InstructionalText
 		{
 			"1"
@@ -2535,8 +2537,8 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}
-
+		}		
+		
 		MatchmakingDialogTitle
 		{
 			"1"
@@ -2584,7 +2586,7 @@ Scheme
 				"tall"		"18"
 				"weight"	"900"
 			}
-		}
+		}		
 		MatchmakingDialogMenuMedium
 		{
 			"1"
@@ -2632,7 +2634,7 @@ Scheme
 				"weight"	"900"
 			}
 		}
-
+		
 		"TeamMenuBold"
 		{
 			"1"
@@ -2654,7 +2656,7 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}
+		}		
 		"IntroMenuCaption"
 		{
 			"1"
@@ -2665,7 +2667,7 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}
+		}			
 		"AchievementNotification"
 		{
 			"1"
@@ -2740,7 +2742,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-
+		
 		"ItemFontNameSmallest"
 		{
 			"1"
@@ -2805,7 +2807,7 @@ Scheme
 				"antialias" "1"
 				"weight"	"500"
 			}
-		}
+		}		
 		"ItemFontAttribSmall"
 		{
 			"1"
@@ -2827,8 +2829,8 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}
-
+		}	
+		
 		"AchievementTracker_Name"
 		{
 			"1"
@@ -2906,12 +2908,10 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-
 		"QuestFlavorText"
 		{
 			"1"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"10"
 				"weight"	"400"
@@ -2921,7 +2921,6 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"14"
 				"weight"	"400"
@@ -2931,8 +2930,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
-				"name"		"ocra"	
+				"name"		"ocra"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -2945,7 +2943,6 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"10"
 				"weight"	"800"
@@ -2955,7 +2952,6 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"14"
 				"weight"	"800"
@@ -2965,7 +2961,6 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"18"
 				"weight"	"800"
@@ -2974,12 +2969,11 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-
+		
 		"QuestLargeText"
 		{
 			"1"
 			{
-				"name"		"OCR A Extended" [$WINDOWS]
 				"name"		"ocra"
 				"tall"		"16"
 				"weight"	"400"
@@ -2999,7 +2993,7 @@ Scheme
 				"weight"	"500"
 			}
 		}
-
+		
 		"QuestInstructionText_Merasmus"
 		{
 			"1"
@@ -3107,7 +3101,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
+		
 		"QuestLargeText_Merasmus"
 		{
 			"1"
@@ -3119,7 +3113,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
+		
 		"AdFont_ItemName"
 		{
 			"1"
@@ -3131,7 +3125,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
+		
 		"AdFont_AdText"
 		{
 			"1"
@@ -3178,7 +3172,7 @@ Scheme
 				"italic"	"1"
 			}
 		}
-
+		
 		//
 		//////////////////// REPLAY FONTS //////////////////////////////
 		//
@@ -3351,7 +3345,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
+		
 		//
 		//////////////////// ECON FONTS //////////////////////////////
 		//

@@ -16,6 +16,7 @@
 		"pinCorner"		"2"
 		"autoResize"	"1"
 
+
 		"RankImage"
 		{
 			"ControlName"	"CTFLocalPlayerBadgePanel"
@@ -32,12 +33,12 @@
 
 			"matchgroup"	"MatchGroup_Casual_12v12"
 		}
-
+	
 		"RankPanel"
 		{
 			"ControlName"	"CPvPRankPanel"
 			"fieldName"		"RankPanel"
-			"xpos"			"75"
+			"xpos"			"35"
 			"ypos"			"-15"
 			"zpos"			"100"
 			"wide"			"330"
@@ -178,7 +179,7 @@
 			"labeltext"		"#TF_Casual_MapSelection"
 			"textAlignment"	"west"
 			"font"			"aBold16"
-
+		
 			"mouseinputenabled"	"0"
 		}
 
@@ -196,7 +197,7 @@
 			"textAlignment"	"west"
 			"font"			"HudFontSmallest"
 			"fgcolor_override"	"TanDark"
-
+		
 			"mouseinputenabled"	"1"
 		}
 
@@ -216,7 +217,7 @@
 			"fgcolor_override"	"TanLight"
 			"textinsetx"	"5"
 			"visible"	"0"
-
+		
 			"mouseinputenabled"	"0"
 		}
 
@@ -266,14 +267,14 @@
 				{
 					"fgcolor_override"	"TanDark"
 				}
-
+		
 				"UpButton"
 				{
 					"ControlName"	"Button"
 					"FieldName"		"UpButton"
 					"visible"		"0"
 				}
-
+		
 				"DownButton"
 				{
 					"ControlName"	"Button"

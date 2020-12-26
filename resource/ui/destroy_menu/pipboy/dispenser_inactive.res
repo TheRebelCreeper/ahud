@@ -1,15 +1,24 @@
-#base "../base_inactive.res"
+#base "../dispenser_inactive.res"
 
 "Resource/UI/build_menu/dispenser_inactive.res"
 {
 	"ItemNameLabel"
 	{
-		"labelText"			"#TF_Object_Dispenser"
-		"fgcolor_override"	"ahudPipBoy"
+		"fgcolor"		"0 255 0 255"
 	}
+	
+	"NotBuiltLabel"
+	{
+		"fgcolor"		"0 255 0 255"
+	}	
 
+	"UnavailableLabel"
+	{
+		"fgcolor"		"0 255 0 255"
+	}
+	
 	"NumberLabel"
 	{
-		"fgcolor_override"	"ahudPipBoy"
+		"fgcolor"		"0 255 0 255"
 	}
 }

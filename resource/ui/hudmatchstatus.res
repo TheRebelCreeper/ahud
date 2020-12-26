@@ -15,7 +15,7 @@
 		"fieldName"		"RoundSignModel"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"3"
+		"zpos"			"3"		
 		"wide"			"f0"
 		"tall"			"f0"
 		"autoResize"	"0"
@@ -24,7 +24,7 @@
 		"enabled"		"1"
 		"fov"			"70"
 		"proportionaltoparent"	"1"
-
+		
 		"model"
 		{
 			"modelname"	"models/props_ui/banner.mdl"
@@ -49,7 +49,7 @@
 				"name"			"intro"
 				"sequence"		"intro"
 			}
-
+			
 			"animation"
 			{
 				"name"			"outro"
@@ -57,9 +57,9 @@
 			}
 		}
 	}
-
+	
 	"CountdownLabel"
-	{
+	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CountdownLabel"
 		"font"			"HudFontGiant"
@@ -84,9 +84,9 @@
 			"ypos"			"130"
 		}
 	}
-
+	
 	"CountdownLabelShadow"
-	{
+	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
 		"font"			"HudFontGiant"
@@ -105,12 +105,13 @@
 		"fgcolor"		"Black"
 		"proportionaltoparent"	"1"
 
+	
 		if_readymode
 		{
 			"xpos"			"300"
 			"ypos"			"130"
 		}
-	}
+	}	
 
 	"FrontParticlePanel"
 	{
@@ -137,7 +138,7 @@
 			}
 		}
 
-		"paintbackground"	"0"
+		"paintbackground"	"0"	
 	}
 
 	"MatchDoors"
@@ -146,7 +147,7 @@
 		"fieldName"		"MatchDoors"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"2"
+		"zpos"			"2"		
 		"wide"			"f0"
 		"tall"			"f0"
 		"autoResize"	"0"
@@ -155,7 +156,7 @@
 		"enabled"		"1"
 		"fov"			"70"
 		"proportionaltoparent"	"1"
-
+		
 		"model"
 		{
 			"modelname"	"models/vgui/versus_doors.mdl"
@@ -179,7 +180,7 @@
 				"name"			"open"
 				"sequence"		"open"
 			}
-
+			
 			"animation"
 			{
 				"name"			"close"
@@ -192,20 +193,20 @@
 				"sequence"		"idle_closed"
 			}
 		}
-	}
+	}	
 
 	"RoundCounter"
 	{
 		"fieldName"		"RoundCounter"
 		"xpos"			"cs-0.5"
 		"ypos"			"-2"
-		"zpos"			"1"
+		"zpos"			"1"		
 		"wide"			"300"
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
-
-	}
+		
+	}	
 
 	"BGFrame"
 	{
@@ -222,7 +223,7 @@
 	}
 
 	"RankUpLabel"
-	{
+	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"RankUpLabel"
 		"font"			"HudFontMediumSmallBold"
@@ -245,7 +246,7 @@
 	}
 
 	"RankUpShadowLabel"
-	{
+	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"RankUpShadowLabel"
 		"font"			"HudFontMediumSmallBold"
@@ -296,7 +297,7 @@
 			"delta_lifetime"		"2"
 			"delta_item_font"		"aRegular14"
 		}
-
+		
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
@@ -318,7 +319,7 @@
 				"ypos"			"9"
 				"ypos_minmode"	"9"
 			}
-		}
+		}	
 	}
 	"TeamStatus"
 	{
@@ -331,6 +332,7 @@
 		"tall"			"75"
 		"visible"		"1"
 		"enabled"		"1"
+
 
 		"max_size"	"19"
 
@@ -363,7 +365,7 @@
 			"percentage_health_low"	"0.3"
 			"color_portrait_blend_dead_red"	"255 255 255 255"
 			"color_portrait_blend_dead_blue" "255 255 255 255"
-
+			
 			"playername"
 			{
 				"ControlName"	"CExLabel"
@@ -390,7 +392,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"../hud/class_scoutred"
-				"scaleImage"	"1"
+				"scaleImage"	"1"	
 				"proportionaltoparent"	"1"
 			}
 			"classimagebg"
@@ -408,15 +410,15 @@
 				"proportionaltoparent"	"1"
 			}
 			"healthbar"
-			{
+			{	
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"healthbar"
-				"font"					"Default"
+				"font"					"Default"																		
 				"xpos"					"0"
 				"ypos"					"19"
 				"zpos"					"5"
 				"wide"					"f0"
-				"tall"					"2"
+				"tall"					"2"				
 				"autoResize"			"0"
 				"pinCorner"				"0"
 				"visible"				"1"
@@ -428,15 +430,15 @@
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"
-			{
+			{	
 				"ControlName"			"ContinuousProgressBar"
 				"fieldName"				"overhealbar"
-				"font"					"Default"
+				"font"					"Default"																		
 				"xpos"					"0"
 				"ypos"					"19"
 				"zpos"					"6"
 				"wide"					"f0"
-				"tall"					"2"
+				"tall"					"2"				
 				"autoResize"			"0"
 				"pinCorner"				"0"
 				"visible"				"1"
@@ -458,7 +460,7 @@
 				"wide"				"32"
 				"tall"				"32"
 				"visible"			"0"
-				"enabled"			"1"
+				"enabled"			"1"	
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.49"
 				"TFFont"					"HudFontSmallest"
@@ -562,9 +564,9 @@
 				"tall"			"24"
 				"visible"		"0"
 				"enabled"		"1"
-				"image"			"../HUD/comp_player_status"
+				"image"			"../HUD/comp_player_status"	
 				"scaleImage"	"1"
-				"proportionaltoparent"	"1"
+				"proportionaltoparent"	"1"	
 			}
 			"SkullPanel"
 			{
@@ -576,9 +578,9 @@
 				"tall"			"p0.15"
 				"visible"		"0"
 				"enabled"		"1"
-				"image"			"../HUD/comp_player_status_skull"
+				"image"			"../HUD/comp_player_status_skull"	
 				"scaleImage"	"1"
-				"proportionaltoparent"	"1"
+				"proportionaltoparent"	"1"	
 			}
 		}
 	}
@@ -594,7 +596,7 @@
 		"tall"			"260"
 		"visible"		"0"
 		"enabled"		"1"
-
+		
 		if_large
 		{
 			"ypos"			"65"
@@ -655,13 +657,13 @@
 			"fieldName"		"BlueLeaderAvatar"
 			"xpos"			"8"
 			"ypos"			"10"
-			"zpos"			"5"
+			"zpos"			"5"	
 			"wide"			"35"
 			"tall"			"35"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			""
-			"scaleImage"	"1"
+			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
 		}
 		"BlueLeaderAvatarBG"
@@ -694,7 +696,7 @@
 			"linespacing"	"25"
 			"linegap"		"0"
 			//"show_columns"	"1"
-
+			
 			if_large
 			{
 				"tall"			"315"
@@ -714,7 +716,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"TFFatLineBorderClearBG"
-
+			
 			if_large
 			{
 				"tall"			"325"
@@ -739,7 +741,7 @@
 			"ypos"			"65"
 			"tall"			"385"
 		}
-
+		
 		"RedTeamBG"
 		{
 			"ControlName"		"EditablePanel"
@@ -800,7 +802,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			""
-			"scaleImage"	"1"
+			"scaleImage"	"1"	
 			"color_outline"	"52 48 45 255"
 		}
 		"RedLeaderAvatarBG"
@@ -833,7 +835,7 @@
 			"linespacing"	"25"
 			"linegap"		"0"
 			//"show_columns"	"1"
-
+			
 			if_large
 			{
 				"tall"			"315"
@@ -853,7 +855,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"TFFatLineBorderClearBG"
-
+			
 			if_large
 			{
 				"tall"			"325"

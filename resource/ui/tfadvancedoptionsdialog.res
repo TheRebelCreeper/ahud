@@ -6,7 +6,7 @@
 		"fieldName"		"TFAdvancedOptionsDialog"
 		"xpos"		"c-250"
 		"ypos"		"90"
-		"wide"		"450"
+		"wide"		"500"
 		"tall"		"350"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -19,7 +19,7 @@
 		"paintborder"			"1"
 		"paintbackground"		"1"
 		"border"				"ahudPanelBorder"
-
+		
 		"control_w"			"500"
 		"control_h"			"25"
 		"slider_w"			"500"
@@ -35,7 +35,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"450"
+		"wide"			"500"
 		"tall"			"40"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -47,7 +47,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton"
-		"xpos"			"100"
+		"xpos"			"150"
 		"ypos"			"310"
 		"zpos"			"1"
 		"wide"			"100"
@@ -71,7 +71,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"OkButton"
-		"xpos"			"250"
+		"xpos"			"300"
 		"ypos"			"310"
 		"zpos"			"1"
 		"wide"			"100"
@@ -91,14 +91,14 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-
+	
 	"PanelListPanel"
 	{
 		"ControlName"		"CPanelListPanel"
 		"fieldName"		"PanelListPanel"
 		"xpos"		"10"
 		"ypos"		"35"
-		"wide"		"430"
+		"wide"		"480"
 		"tall"		"270"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -107,7 +107,7 @@
 		"tabPosition"		"0"
 		"bgcolor_override"	"0 0 0 0"
 	}
-
+	
 	"TooltipPanel"
 	{
 		"ControlName"	"EditablePanel"
@@ -121,7 +121,7 @@
 		"PaintBackgroundType"	"2"
 		"border"		"ahudPanelBorder"
 		"bgcolor_override"	"ahudDarkerGrey"
-
+		
 		"TipLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -142,5 +142,5 @@
 			"wrap"			"1"
 			//"centerwrap"	"1"
 		}
-	}
+	}	
 }

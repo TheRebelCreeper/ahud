@@ -1,15 +1,24 @@
-#base "../base_inactive.res"
+#base "../sentry_inactive.res"
 
 "Resource/UI/destroy_menu/sentry_inactive.res"
 {
 	"ItemNameLabel"
 	{
-		"labelText"			"#TF_Object_Sentry"
-		"fgcolor_override"	"ahudPipBoy"
+		"fgcolor"		"0 255 0 255"
+	}
+	
+	"NotBuiltLabel"
+	{
+		"fgcolor"		"0 255 0 255"
 	}
 
+	"UnavailableLabel"
+	{
+		"fgcolor"		"0 255 0 255"
+	}
+	
 	"NumberLabel"
 	{
-		"fgcolor_override"	"ahudPipBoy"
+		"fgcolor"		"0 255 0 255"
 	}
 }
