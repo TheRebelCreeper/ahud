@@ -1,6 +1,6 @@
 // Centered charge meter and percentage
 
-"Resource/UI/HudMedicCharge.res"
+"resource/ui/hudmediccharge.res"
 {
 	"Background"
 	{

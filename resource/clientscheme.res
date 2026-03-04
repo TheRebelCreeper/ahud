@@ -18,42 +18,42 @@ Scheme
 		"2" "resource/tfd.ttf"
 		"3"
 		{
-			"font" "resource/TF2.ttf"
+			"font" "resource/tf2.ttf"
 			"name" "TF2"
 		}
 		"4"
 		{
-			"font" "resource/TF2Secondary.ttf"
+			"font" "resource/tf2secondary.ttf"
 			"name" "TF2 Secondary"
 		}
 		"5"
 		{
-			"font" "resource/TF2Professor.ttf"
+			"font" "resource/tf2professor.ttf"
 			"name" "TF2 Professor"
 		}
 		"6"
 		{
-			"font" "resource/TF2Build.ttf"
+			"font" "resource/tf2build.ttf"
 			"name" "TF2 Build"
 		}
 		"7"
 		{
-			"font" "resource/fonts/Blocks.ttf"
+			"font" "resource/fonts/blocks.ttf"
 			"name" "Blocks"
 		}
 		"8"
 		{
-			"font"	"resource/fonts/CodeProBold.otf"
+			"font"	"resource/fonts/codeprobold.otf"
 			"name"	"Code-Pro-Bold"
 		}
 		"9"
 		{
-			"font"	"resource/fonts/CodeProLC.otf"
+			"font"	"resource/fonts/codeprolc.otf"
 			"name"	"Code-Pro-LC"
 		}
 		"10"
 		{
-			"font" "resource/fonts/KnucklesCrosses.ttf"
+			"font" "resource/fonts/knucklescrosses.ttf"
 			"name" "KnucklesCrosses"
 		}
 	}

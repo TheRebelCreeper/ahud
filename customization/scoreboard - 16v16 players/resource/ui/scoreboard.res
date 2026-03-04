@@ -1,6 +1,6 @@
 // 16v16 and 6v6 scoreboard
 
-"Resource/UI/Scoreboard.res"
+"resource/ui/scoreboard.res"
 {
 	"scores"
 	{

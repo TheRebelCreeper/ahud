@@ -1,6 +1,6 @@
 // No-box Medic HUD
 
-"Resource/UI/HudMedicCharge.res"
+"resource/ui/hudmediccharge.res"
 {
 	"Background"
 	{

@@ -1,6 +1,6 @@
 // Bottom-aligned 12v12 and 6v6 scoreboard
 
-"Resource/UI/Scoreboard.res"
+"resource/ui/scoreboard.res"
 {
 	"scores"
 	{

@@ -1,4 +1,4 @@
-#base "SourceSchemeBase.res"
+#base "sourceschemebase.res"
 
 Scheme
 {
@@ -717,17 +717,17 @@ Scheme
 	{
 		"1"
 		{
-			"font" "resource/TF2Build.ttf"
+			"font" "resource/tf2build.ttf"
 			"name" "TF2 Build"
 		}
 		"2"
 		{
-			"font"	"resource/fonts/CodeProBold.otf"
+			"font"	"resource/fonts/codeprobold.otf"
 			"name"	"Code-Pro-Bold"
 		}
 		"3"
 		{
-			"font"	"resource/fonts/CodeProLC.otf"
+			"font"	"resource/fonts/codeprolc.otf"
 			"name"	"Code-Pro-LC"
 		}
 	}

@@ -12,7 +12,7 @@
 // 	PIN_CENTER_LEFT,
 // };
 
-"Resource/UI/HudPasstimePassNotify.res"
+"resource/ui/hudpasstimepassnotify.res"
 {
 	"HudPasstimePassNotify"
 	{
