@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -17,7 +17,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"12"
 				"antialias" "1"
 				"additive"	"0"
@@ -28,7 +28,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"14"
 				"antialias" "1"
 				"additive"	"0"
@@ -39,7 +39,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -50,7 +50,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -61,7 +61,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -72,7 +72,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -83,7 +83,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -94,7 +94,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"26"
 				"antialias" "1"
 				"additive"	"0"
@@ -105,7 +105,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"28"
 				"antialias" "1"
 				"additive"	"0"
@@ -116,7 +116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"30"
 				"antialias" "1"
 				"additive"	"0"
@@ -127,7 +127,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"32"
 				"antialias" "1"
 				"additive"	"0"
@@ -138,7 +138,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"34"
 				"antialias" "1"
 				"additive"	"0"
@@ -149,7 +149,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"36"
 				"antialias" "1"
 				"additive"	"0"
@@ -160,7 +160,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"38"
 				"antialias" "1"
 				"additive"	"0"
@@ -171,7 +171,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"40"
 				"antialias" "1"
 				"additive"	"0"
@@ -182,7 +182,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"42"
 				"antialias" "1"
 				"additive"	"0"
@@ -193,7 +193,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"44"
 				"antialias" "1"
 				"additive"	"0"
@@ -204,7 +204,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"46"
 				"antialias" "1"
 				"additive"	"0"
@@ -215,7 +215,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"48"
 				"antialias" "1"
 				"additive"	"0"
@@ -226,7 +226,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"50"
 				"antialias" "1"
 				"additive"	"0"
@@ -237,7 +237,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"12"
 				"antialias" "0"
 				"additive"	"0"
@@ -248,7 +248,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"14"
 				"antialias" "0"
 				"additive"	"0"
@@ -259,7 +259,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"16"
 				"antialias" "0"
 				"additive"	"0"
@@ -270,7 +270,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"18"
 				"antialias" "0"
 				"additive"	"0"
@@ -281,7 +281,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"20"
 				"antialias" "0"
 				"additive"	"0"
@@ -292,7 +292,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"22"
 				"antialias" "0"
 				"additive"	"0"
@@ -303,7 +303,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"24"
 				"antialias" "0"
 				"additive"	"0"
@@ -314,7 +314,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"26"
 				"antialias" "0"
 				"additive"	"0"
@@ -325,7 +325,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"28"
 				"antialias" "0"
 				"additive"	"0"
@@ -336,7 +336,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"30"
 				"antialias" "0"
 				"additive"	"0"
@@ -347,7 +347,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"32"
 				"antialias" "0"
 				"additive"	"0"
@@ -358,7 +358,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"34"
 				"antialias" "0"
 				"additive"	"0"
@@ -369,7 +369,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"36"
 				"antialias" "0"
 				"additive"	"0"
@@ -380,7 +380,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"38"
 				"antialias" "0"
 				"additive"	"0"
@@ -391,7 +391,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"40"
 				"antialias" "0"
 				"additive"	"0"
@@ -402,7 +402,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"42"
 				"antialias" "0"
 				"additive"	"0"
@@ -413,7 +413,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"44"
 				"antialias" "0"
 				"additive"	"0"
@@ -424,7 +424,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"46"
 				"antialias" "0"
 				"additive"	"0"
@@ -435,7 +435,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"48"
 				"antialias" "0"
 				"additive"	"0"
@@ -446,7 +446,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"KnucklesCrosses"
+				"name"	"knucklescrosses"
 				"tall"	"50"
 				"antialias" "0"
 				"additive"	"0"
