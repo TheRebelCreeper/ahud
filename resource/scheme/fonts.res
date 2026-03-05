@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Blocks"
+				"name"		"blocks"
 				"tall"		"64"
 				"additive"	"0"
 				"antialias" "0"
@@ -16,7 +16,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -26,7 +26,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -36,7 +36,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -46,7 +46,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -56,7 +56,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -66,7 +66,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -76,7 +76,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -86,7 +86,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -96,7 +96,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -106,7 +106,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" "1"
@@ -116,7 +116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -126,7 +126,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -136,7 +136,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -146,7 +146,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"34"
 				"additive"	"0"
 				"antialias" "1"
@@ -156,7 +156,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -166,7 +166,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"50"
 				"additive"	"0"
 				"antialias" "1"
@@ -176,7 +176,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
@@ -186,7 +186,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"55"
 				"additive"	"0"
 				"antialias" "1"
@@ -196,7 +196,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -206,7 +206,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -216,7 +216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -226,7 +226,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" "1"
@@ -236,7 +236,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -246,7 +246,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -256,7 +256,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -266,7 +266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -276,7 +276,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -286,7 +286,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -297,7 +297,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -307,7 +307,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -318,7 +318,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -328,7 +328,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -339,7 +339,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" "1"
@@ -349,7 +349,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -359,7 +359,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -369,7 +369,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -379,7 +379,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"34"
 				"additive"	"0"
 				"antialias" "1"
@@ -389,7 +389,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -399,7 +399,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"38"
 				"additive"	"0"
 				"antialias" "1"
@@ -409,7 +409,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"40"
 				"additive"	"0"
 				"antialias" "1"
@@ -419,7 +419,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"42"
 				"additive"	"0"
 				"antialias" "1"
@@ -429,7 +429,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"44"
 				"additive"	"0"
 				"antialias" "1"
@@ -439,7 +439,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"46"
 				"additive"	"0"
 				"antialias" "1"
@@ -449,7 +449,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -459,7 +459,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"50"
 				"additive"	"0"
 				"antialias" "1"
@@ -469,7 +469,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
@@ -479,7 +479,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"55"
 				"additive"	"0"
 				"antialias" "1"
@@ -490,7 +490,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -501,7 +501,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -512,7 +512,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -523,7 +523,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -534,7 +534,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -545,7 +545,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -556,7 +556,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -567,7 +567,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -578,7 +578,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -589,7 +589,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" "1"
@@ -600,7 +600,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -611,7 +611,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -622,7 +622,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -633,7 +633,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"34"
 				"additive"	"0"
 				"antialias" "1"
@@ -644,7 +644,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -655,7 +655,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"50"
 				"additive"	"0"
 				"antialias" "1"
@@ -666,7 +666,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
@@ -677,7 +677,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"55"
 				"additive"	"0"
 				"antialias" "1"
@@ -689,7 +689,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -700,7 +700,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -711,7 +711,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -722,7 +722,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" "1"
@@ -733,7 +733,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -744,7 +744,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -755,7 +755,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -766,7 +766,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -777,7 +777,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -788,7 +788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -799,7 +799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -810,7 +810,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -822,7 +822,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" "1"
@@ -833,7 +833,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -844,7 +844,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -855,7 +855,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -866,7 +866,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"34"
 				"additive"	"0"
 				"antialias" "1"
@@ -877,7 +877,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -888,7 +888,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"38"
 				"additive"	"0"
 				"antialias" "1"
@@ -899,7 +899,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"40"
 				"additive"	"0"
 				"antialias" "1"
@@ -910,7 +910,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"42"
 				"additive"	"0"
 				"antialias" "1"
@@ -921,7 +921,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"44"
 				"additive"	"0"
 				"antialias" "1"
@@ -932,7 +932,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"46"
 				"additive"	"0"
 				"antialias" "1"
@@ -943,7 +943,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -954,7 +954,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"50"
 				"additive"	"0"
 				"antialias" "1"
@@ -965,7 +965,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
@@ -976,7 +976,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"55"
 				"additive"	"0"
 				"antialias" "1"
@@ -987,7 +987,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -1009,7 +1009,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -1230,7 +1230,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"Code-Pro-LC"
+				"name"	"code_pro_lc"
 				"tall"	"10"
 				"weight"	"0"
 				"additive"	"0"
@@ -1269,7 +1269,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -1279,7 +1279,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"32"
 				"tall_hidef"	"120"
 				"weight"	"500"
@@ -1289,7 +1289,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -1298,7 +1298,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -1307,7 +1307,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -1319,7 +1319,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"44"
 				"tall_lodef"	"52"
 				"weight"	"500"
@@ -1332,7 +1332,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"35"
 				"tall_lodef"	"40"
 				"weight"	"500"
@@ -1345,7 +1345,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -1357,7 +1357,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -1368,7 +1368,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -1379,7 +1379,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -1391,7 +1391,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -1402,7 +1402,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -1413,7 +1413,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -1424,7 +1424,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -1437,7 +1437,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -1450,7 +1450,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"tall_lodef"	"16"
 				"weight"	"500"
@@ -1462,7 +1462,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1473,7 +1473,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1484,7 +1484,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1496,7 +1496,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1507,7 +1507,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1519,7 +1519,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1530,7 +1530,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"4"
 				"weight"	"500"
 				"additive"	"0"
@@ -1541,7 +1541,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"	"Code-Pro-LC"
+				"name"	"code_pro_lc"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -1551,7 +1551,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"16"
 				//"weight"	"500"
 				"additive"	"0"
@@ -1562,7 +1562,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1573,7 +1573,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1584,7 +1584,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"6"
 				"weight"	"0"
 				"additive"	"0"
@@ -1595,7 +1595,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"12"
 				"tall_hidef"	"14"
 				"tall_lodef"	"16"
@@ -1608,7 +1608,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1683,7 +1683,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -1696,7 +1696,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -1756,7 +1756,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1766,7 +1766,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1776,7 +1776,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1785,7 +1785,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1794,7 +1794,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1872,7 +1872,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"tall_hidef"	"32"
 				"antialias" "1"
@@ -1884,7 +1884,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"tall_hidef"	"32"
 				"antialias" "1"
@@ -1897,7 +1897,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"tall_hidef"	"32"
 				"antialias" "1"
@@ -1909,7 +1909,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"tall_hidef"	"32"
 				"antialias" "1"
@@ -1922,7 +1922,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"16"
 				"tall_hidef"	"24"
 				"antialias" "1"
@@ -1958,7 +1958,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1968,7 +1968,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -1979,7 +1979,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -2072,7 +2072,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"9"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -2085,7 +2085,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -2098,7 +2098,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"10"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2110,7 +2110,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2122,7 +2122,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -2136,7 +2136,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2148,7 +2148,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2160,7 +2160,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -2175,7 +2175,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -2187,7 +2187,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -2197,7 +2197,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -2207,7 +2207,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2216,7 +2216,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2225,7 +2225,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -2238,7 +2238,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"36"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2250,7 +2250,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2261,7 +2261,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"20"
 				"weight"	"400"
 				"additive"	"0"
@@ -2272,7 +2272,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -2283,7 +2283,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -2294,7 +2294,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -2306,7 +2306,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -2363,7 +2363,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -2463,7 +2463,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -2476,7 +2476,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2488,7 +2488,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2541,7 +2541,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"36"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -2551,7 +2551,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"30"
 				"tall_lodef"		"22"
 				"weight"	"500"
@@ -2561,7 +2561,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"28"
 				"tall_lodef"	"24"
 				"weight"	"500"
@@ -2589,7 +2589,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"22"
 				"weight"	"500"
 			}
@@ -2598,7 +2598,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"weight"	"500"
 			}
@@ -2637,7 +2637,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -2648,7 +2648,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -2659,7 +2659,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -2702,7 +2702,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"8"
 				"weight"	"400"
 				"additive"	"0"
@@ -2745,7 +2745,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2756,7 +2756,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2767,7 +2767,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -2778,7 +2778,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -2789,7 +2789,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2800,7 +2800,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -2810,7 +2810,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -2821,7 +2821,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -2833,7 +2833,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -2844,7 +2844,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"9"
 				"weight"	"500"
 				"blur"		"3"
@@ -3232,7 +3232,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3296,7 +3296,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3307,7 +3307,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3318,7 +3318,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -3331,7 +3331,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3342,7 +3342,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -3359,7 +3359,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3370,7 +3370,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3382,7 +3382,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"15"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -3395,7 +3395,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
@@ -3407,7 +3407,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias" 	"1"
@@ -3419,7 +3419,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"11"
 				"weight"	"500"
 				"blur"		"3"
@@ -3431,7 +3431,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"

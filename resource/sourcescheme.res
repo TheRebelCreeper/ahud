@@ -248,7 +248,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"35"
 				"additive"	"0"
 				"antialias" "1"
@@ -258,7 +258,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -268,7 +268,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"17"
 				"additive"	"0"
 				"antialias" "1"
@@ -278,7 +278,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -288,7 +288,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"19"
 				"additive"	"0"
 				"antialias" "1"
@@ -298,7 +298,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -319,7 +319,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-LC"
+				"name"		"code_pro_lc"
 				"tall"		"18"
 				"weight"	"0"
 				"antialias"	"1"
@@ -330,7 +330,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Code-Pro-Bold"
+				"name"		"code_pro_bold"
 				"tall"		"35"
 				"antialias" "1"
 			}
@@ -723,12 +723,12 @@ Scheme
 		"2"
 		{
 			"font"	"resource/fonts/codeprobold.otf"
-			"name"	"Code-Pro-Bold"
+			"name"	"code_pro_bold"
 		}
 		"3"
 		{
 			"font"	"resource/fonts/codeprolc.otf"
-			"name"	"Code-Pro-LC"
+			"name"	"code_pro_lc"
 		}
 	}
 }

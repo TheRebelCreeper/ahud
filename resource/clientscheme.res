@@ -39,22 +39,22 @@ Scheme
 		"7"
 		{
 			"font" "resource/fonts/blocks.ttf"
-			"name" "Blocks"
+			"name" "blocks"
 		}
 		"8"
 		{
 			"font"	"resource/fonts/codeprobold.otf"
-			"name"	"Code-Pro-Bold"
+			"name"	"code_pro_bold"
 		}
 		"9"
 		{
 			"font"	"resource/fonts/codeprolc.otf"
-			"name"	"Code-Pro-LC"
+			"name"	"code_pro_lc"
 		}
 		"10"
 		{
 			"font" "resource/fonts/knucklescrosses.ttf"
-			"name" "KnucklesCrosses"
+			"name" "knucklescrosses"
 		}
 	}
 }
